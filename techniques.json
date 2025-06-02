@@ -1,0 +1,10 @@
+{
+  "Karate": [
+    { "title": "Straight Punch", "image": "https://example.com/punch.png" },
+    { "title": "Front Kick", "image": "https://example.com/frontkick.png" }
+  ],
+  "Taekwondo": [
+    { "title": "Side Kick", "image": "https://example.com/sidekick.png" },
+    { "title": "Roundhouse Kick", "image": "https://example.com/roundhouse.png" }
+  ]
+}
